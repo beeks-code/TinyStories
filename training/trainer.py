@@ -54,6 +54,8 @@ def model_train(
             device,
             start_context,
             max_token=100,
+            temperature=0.8,
+            top_k=40
         )
 
     return train_losses, val_losses, track_tokens_seen
