@@ -46,4 +46,11 @@ Test:
 ```bash
 python test.py
 ```
+## Reference
+This project is inspired by the paper:
+
+**TinyStories: How Small Can Language Models Be and Still Speak Coherent English?**
+Eldan & Li, 2023 — [arxiv.org/abs/2305.07759](https://arxiv.org/abs/2305.07759)
+Test:
+
 
