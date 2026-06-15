@@ -3,7 +3,7 @@
 A GPT-2 style language model built from scratch and trained on the [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories) dataset.
 
 ## About
-This project implements a transformer-based language model from scratch using PyTorch, trained on the TinyStories dataset to generate coherent short stories.
+This project implements a transformer based language model from scratch using PyTorch, trained on the TinyStories dataset to generate coherent short stories.
 
 ## Project Structure
 TinyStories/
@@ -47,5 +47,3 @@ Test:
 python test.py
 ```
 
-## Built By
-Bikram — built and trained from scratch as a learning project.
