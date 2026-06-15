@@ -1,0 +1,31 @@
+*.pt
+*.pth
+*.onnx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# HuggingFace cache — huge dataset files
+~/.cache/huggingface/
+.cache/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Dataset files
+*.csv
+*.json
+*.parquet
